@@ -1,3 +1,4 @@
 void main(List<String> arguments) {
-  print('Hello world!');
+  int my="20";
+  print('Hello world!''$my');
 }
